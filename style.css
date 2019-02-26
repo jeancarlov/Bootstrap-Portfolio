@@ -1,0 +1,12 @@
+footer {
+    background-color: rgba(248, 249, 250);
+    color: silver;
+    text-align: center;
+    position: fixed;
+    bottom: 0px;
+    width: 100%;
+  }
+
+  .card-block{
+      margin-top: 60px;
+  }
