@@ -26,3 +26,14 @@ footer {
  body{
      background-image: url(./images/pattern.png);
  }
+
+ .fa-linkedin:before {
+    content: "\f08c";
+    font-size: 35px;
+}
+
+.fa-github{
+    font-size: 35px;
+    margin-left: 15px;
+
+}
